@@ -674,7 +674,7 @@ header::before {
 }
 
 .column-mainblock__search {
-  background: url(img/mainblock/search.png) 0 0 no-repeat;
+  background: url(../img/mainblock/search.png) 0 0 no-repeat;
   margin: 0px 0px 25px 0px;
 }
 
