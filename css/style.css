@@ -646,7 +646,7 @@ header::before {
 }
 
 .mainblock__bg {
-  background: url(img/mainblock/bg.png) no-repeat;
+  background: url(../img/mainblock/bg.png) no-repeat;
   background-position: center;
   background-size: cover;
   position: absolute;
@@ -740,7 +740,7 @@ header::before {
 }
 
 .btn-apple__icon {
-  background: url(img/mainblock/apple.png) 0 0 no-repeat;
+  background: url(../img/mainblock/apple.png) 0 0 no-repeat;
   width: 100%;
   height: 34px;
 }
@@ -903,7 +903,7 @@ header::before {
 }
 
 .column-info__title-1 {
-  background: url(img/grey/01.png) 0 0 no-repeat;
+  background: url(../img/grey/01.png) 0 0 no-repeat;
 }
 
 @media (max-width: 767.98px) {
@@ -913,7 +913,7 @@ header::before {
 }
 
 .column-info__title-2 {
-  background: url(img/grey/02.png) 0 0 no-repeat;
+  background: url(../img/grey/02.png) 0 0 no-repeat;
 }
 
 @media (max-width: 767.98px) {
@@ -1095,7 +1095,7 @@ header::before {
 }
 
 .business__title {
-  background: url(img/business/case.png) left no-repeat;
+  background: url(../img/business/case.png) left no-repeat;
   color: #fff;
   height: 72px;
   margin: 0px 0px 20px 0px;
@@ -1131,7 +1131,7 @@ header::before {
   color: #fff;
   max-width: 350px;
   line-height: 24px;
-  background: url(img/business/ok.png) left no-repeat;
+  background: url(../img/business/ok.png) left no-repeat;
   min-height: 56px;
   padding: 16px 0px 0px 80px;
   margin: 0px 0px 25px 0px;
@@ -1150,7 +1150,7 @@ header::before {
 }
 
 .business__bg {
-  background: url(img/business/business_bg.png) no-repeat;
+  background: url(../img/business/business_bg.png) no-repeat;
   background-position: left bottom;
   background-size: cover;
   position: absolute;
@@ -1448,7 +1448,7 @@ header::before {
 }
 
 .contact__bg {
-  background: url(img/contact/bg.png) no-repeat;
+  background: url(../img/contact/bg.png) no-repeat;
   background-position: center;
   background-size: cover;
   position: absolute;
@@ -1497,15 +1497,15 @@ header::before {
 }
 
 .column-media__list li:nth-child(1) {
-  background: url(img/contact/01.png) no-repeat;
+  background: url(../img/contact/01.png) no-repeat;
 }
 
 .column-media__list li:nth-child(2) {
-  background: url(img/contact/02.png) no-repeat;
+  background: url(../img/contact/02.png) no-repeat;
 }
 
 .column-media__list li:nth-child(3) {
-  background: url(img/contact/03.png) no-repeat;
+  background: url(../img/contact/03.png) no-repeat;
   margin: 0px 0px 0px 0px;
 }
 
